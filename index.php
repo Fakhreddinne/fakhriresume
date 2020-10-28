@@ -322,7 +322,7 @@
 
                <div class="col-md-offset-1 col-md-10 col-sm-12">
                     <i class="wow fadeInUp fa fa-star" data-wow-delay="0.6s"></i>
-                    <h2 class="wow fadeInUp" data-wow-delay="0.8s">If you don't know how to do it, say yes i can, then learn how you actually do it, why? because you have Google.  </h2>
+                    <h2 class="wow fadeInUp" data-wow-delay="0.8s">You don't know how to do it? say yes, then learn how you actually do it. You have Google! </h2>
                     <p class="wow fadeInUp" data-wow-delay="1s">Fakhri's piece of advice to be more succssesful</p>
                </div>
 
